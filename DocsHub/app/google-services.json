@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480658809943",
+    "project_id": "docshub-469b7",
+    "storage_bucket": "docshub-469b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480658809943:android:d09e52165c482f67cbaf12",
+        "android_client_info": {
+          "package_name": "com.sri.docshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480658809943-g4o5mhanga5050j8e0oroliv7e4bl36m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0-Z2xD0qoWlfbOWhwvf_W2-zGoxQ5j1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480658809943-g4o5mhanga5050j8e0oroliv7e4bl36m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
